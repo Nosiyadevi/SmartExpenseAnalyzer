@@ -31,19 +31,19 @@ Smart Expense Analyzer is an Android application designed to help users track da
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-![Login](screenshots/login.png)
+![Login](screenshots/login.jpeg)
 
 ### 🏠 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpeg)
 
 ### 🥧 Expense Pie Chart
-![Pie Chart](screenshots/pie_chart.png)
+![Pie Chart](screenshots/pie_chart.jpeg)
 
 ### 📊 Monthly Bar Chart
-![Bar Chart](screenshots/bar_chart.png)
+![Bar Chart](screenshots/bar_chart.jpeg)
 
-### 📋 Expense List
-![Expense List](screenshots/expense_list.png)
+### 📋 Adding Expenses
+![Expense List](screenshots/expense_list.jpeg)
 
 
 ---
