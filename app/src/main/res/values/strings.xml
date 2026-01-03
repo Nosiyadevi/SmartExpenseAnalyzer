@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SmartExpenseAnalyzer</string>
+    <string name="title_add_expense">Add Expense</string>
+    <string name="hint_amount">Amount</string>
+    <string name="hint_category">Category (Food, Travel)</string>
+    <string name="btn_save">Save Expense</string>
+    <string name="expense_list">Expense List</string>
+    <string name="month_year">December 2025</string>
+    <string name="total_spent">Total Spent</string>
+    <string name="set_budget">Set Monthly Budget</string>
+    <string name="set">Set</string>
+    <string name="create_account">Create Account</string>
+
+    <string name="login">Login</string>
+    <string name="tagline">Track. Analyze. Save.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register here</string>
+
+</resources>
