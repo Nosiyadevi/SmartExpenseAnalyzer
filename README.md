@@ -1,4 +1,4 @@
-# 📱 Smart Expense Analyzer
+# 📱 Smart Expense Analyzer - Project
 
 Smart Expense Analyzer is an Android application designed to help users track daily expenses, manage monthly budgets, and visualize spending patterns using interactive charts.
 
